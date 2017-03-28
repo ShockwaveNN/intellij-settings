@@ -3640,12 +3640,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/onlyoffice_testrail_wrapper-630250406667/lib" />
       </SOURCES>
     </library>
+    <library name="onlyoffice_testrail_wrapper (v0.0.1@9bf84c, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_testrail_wrapper-9bf84c35e459/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_testrail_wrapper-9bf84c35e459/lib" />
+      </SOURCES>
+    </library>
     <library name="onlyoffice_webdriver_wrapper (v0.0.1@6707e6, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-6707e6448c8f/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-6707e6448c8f/lib" />
+      </SOURCES>
+    </library>
+    <library name="onlyoffice_webdriver_wrapper (v0.0.1@a087ca, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-a087cae21650/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-a087cae21650/lib" />
       </SOURCES>
     </library>
     <library name="onlyoffice_webdriver_wrapper (v0.0.1@bb589c, RVM: ruby-2.1.10) [gem]">
@@ -3894,6 +3910,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/ooxml_parser-17411c3f5599/lib" />
+      </SOURCES>
+    </library>
+    <library name="ooxml_parser (v0.2.0@c492d4, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/ooxml_parser-c492d40d8239/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/ooxml_parser-c492d40d8239/lib" />
       </SOURCES>
     </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.3.3) [gem]">
