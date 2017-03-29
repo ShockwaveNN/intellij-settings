@@ -344,6 +344,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.8.12/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.8.14, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-2.8.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-2.8.14/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.8.4, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-2.8.4/lib" />
@@ -520,6 +528,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.8.12/apis" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v2.8.14, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-core-2.8.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-core-2.8.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-core-2.8.14/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-core-2.8.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-core-2.8.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-core-2.8.14/apis" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v2.8.4, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-core-2.8.4/bin" />
@@ -662,6 +682,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-resources-2.8.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.8.14, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-resources-2.8.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-resources-2.8.14/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.8.4, RVM: ruby-2.1.10) [gem]">
@@ -3606,6 +3634,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_pdf_parser-59b585acb907/lib" />
       </SOURCES>
     </library>
+    <library name="onlyoffice_pdf_parser (v0.0.1@aa4366, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_pdf_parser-aa43660b0661/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_pdf_parser-aa43660b0661/lib" />
+      </SOURCES>
+    </library>
     <library name="onlyoffice_pdf_parser (v0.0.1@b0254d, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_pdf_parser-b0254d26038c/lib" />
@@ -3716,6 +3752,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-cd3c9cd46a63/lib" />
+      </SOURCES>
+    </library>
+    <library name="onlyoffice_webdriver_wrapper (v0.0.1@d7acf6, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-d7acf6f57065/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-d7acf6f57065/lib" />
       </SOURCES>
     </library>
     <library name="onlyoffice_webdriver_wrapper (v0.0.1@f7642d, RVM: ruby-2.1.10) [gem]">
