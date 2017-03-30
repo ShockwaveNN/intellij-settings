@@ -152,6 +152,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.0/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.1, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/addressable-2.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/addressable-2.5.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/addressable-2.5.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/addressable-2.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/addressable-2.5.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/addressable-2.5.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="afm (v0.2.2, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/afm-0.2.2/lib" />
@@ -3556,6 +3568,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_api_gem-5a7b92b89385/lib" />
       </SOURCES>
     </library>
+    <library name="onlyoffice_api (v0.6@b64cad, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_api_gem-b64cade780f1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_api_gem-b64cade780f1/lib" />
+      </SOURCES>
+    </library>
     <library name="onlyoffice_api (v0.6@ed4a76, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_api_gem-ed4a76586aa2/lib" />
@@ -3738,6 +3758,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-a087cae21650/lib" />
+      </SOURCES>
+    </library>
+    <library name="onlyoffice_webdriver_wrapper (v0.0.1@b25c81, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-b25c8161bd44/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/bundler/gems/onlyoffice_webdriver_wrapper-b25c8161bd44/lib" />
       </SOURCES>
     </library>
     <library name="onlyoffice_webdriver_wrapper (v0.0.1@bb589c, RVM: ruby-2.1.10) [gem]">
