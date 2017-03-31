@@ -4632,6 +4632,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-1.6.4/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.5, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/rack-1.6.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/rack-1.6.5/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-2.0.1/bin" />
@@ -5862,6 +5876,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-1.4.7/lib" />
       </SOURCES>
     </library>
+    <library name="sinatra (v1.4.8, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/sinatra-1.4.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/sinatra-1.4.8/lib" />
+      </SOURCES>
+    </library>
     <library name="sinatra-contrib (v1.4.7, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/sinatra-contrib-1.4.7/lib" />
@@ -6256,6 +6278,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.5/man" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.7, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/tilt-2.0.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/tilt-2.0.7/man" />
       </SOURCES>
     </library>
     <library name="travis (v1.8.6, RVM: ruby-2.1.10) [gem]">
