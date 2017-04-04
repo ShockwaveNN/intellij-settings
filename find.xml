@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '[testing-wrata] - /home/lobashov-2/RubymineProjects/testing-wrata/Changelog.md'" />
+    <option name="defaultScopeName" value="File '[testing-wrata] - /home/lobashov-2/RubymineProjects/testing-wrata/Changelog.md'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[testing-wrata] - /home/lobashov-2/RubymineProjects/testing-wrata/Changelog.md'" />
   </component>
 </application>

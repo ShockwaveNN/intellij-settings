@@ -220,6 +220,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/addressable-2.5.1/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="afm (v0.2.2, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/afm-0.2.2/lib" />
@@ -332,6 +344,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/autoprefixer-rails-6.7.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/autoprefixer-rails-6.7.7/vendor" />
+      </SOURCES>
+    </library>
+    <library name="autoprefixer-rails (v6.7.7.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/autoprefixer-rails-6.7.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/autoprefixer-rails-6.7.7.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/autoprefixer-rails-6.7.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/autoprefixer-rails-6.7.7.1/vendor" />
       </SOURCES>
     </library>
     <library name="aws-sdk (v2.6.30, RVM: ruby-2.1.10) [gem]">
@@ -1158,6 +1180,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/childprocess-0.5.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="childprocess (v0.6.3, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/childprocess-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/childprocess-0.6.3/lib" />
       </SOURCES>
     </library>
     <library name="chunky_png (v1.3.8, RVM: ruby-2.1.10) [gem]">
@@ -3032,6 +3062,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/jquery-rails-4.2.2/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-rails (v4.3.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/jquery-rails-4.3.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/jquery-rails-4.3.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="jquery-ui-rails (v6.0.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/jquery-ui-rails-6.0.1/app" />
@@ -3956,6 +3996,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/onlyoffice_digitalocean_wrapper-a4c92a07dabf/lib" />
       </SOURCES>
     </library>
+    <library name="onlyoffice_digitalocean_wrapper (v0.2.0@e68a67, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/onlyoffice_digitalocean_wrapper-e68a67e71b8d/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/onlyoffice_digitalocean_wrapper-e68a67e71b8d/lib" />
+      </SOURCES>
+    </library>
     <library name="onlyoffice_logger_helper (v1.0.0, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/onlyoffice_logger_helper-1.0.0/lib" />
@@ -4478,6 +4526,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.38.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.38.0/libexec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.38.0/template-dir" />
+      </SOURCES>
+    </library>
+    <library name="overcommit (v0.39.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/template-dir" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/template-dir" />
       </SOURCES>
     </library>
     <library name="page-object (v1.2.0, RVM: ruby-2.1.10) [gem]">
@@ -5868,6 +5932,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.0/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.48.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.1/config" />
+      </SOURCES>
+    </library>
     <library name="rubocop-rspec (v1.5.1, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/rubocop-rspec-1.5.1/lib" />
@@ -6940,6 +7018,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/uglifier-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v3.1.13, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/uglifier-3.1.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/uglifier-3.1.13/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v3.1.7, RVM: ruby-2.4.1) [gem]">
