@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="kdbx" type="Native" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
