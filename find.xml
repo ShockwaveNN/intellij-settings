@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[SharedFunctional] - /home/lobashov-2/RubymineProjects/SharedFunctional/assets/bash/testrail_backup.sh'" />
-    <option name="defaultScopeName" value="File '[SharedFunctional] - /home/lobashov-2/RubymineProjects/SharedFunctional/assets/bash/testrail_backup.sh'" />
-    <option name="SEARCH_SCOPE" value="File '[SharedFunctional] - /home/lobashov-2/RubymineProjects/SharedFunctional/assets/bash/testrail_backup.sh'" />
+    <option name="customScope" value="File '[sdkjs] - /home/lobashov-2/sources/sdkjs/build/Gruntfile.js'" />
+    <option name="defaultScopeName" value="File '[sdkjs] - /home/lobashov-2/sources/sdkjs/build/Gruntfile.js'" />
+    <option name="SEARCH_SCOPE" value="File '[sdkjs] - /home/lobashov-2/sources/sdkjs/build/Gruntfile.js'" />
   </component>
 </application>
