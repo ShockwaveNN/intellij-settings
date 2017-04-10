@@ -500,6 +500,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-2.9.1/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.9.6, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.9.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.9.6/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v2.6.30, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-core-2.6.30/bin" />
@@ -716,6 +724,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-core-2.9.1/apis" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v2.9.6, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.9.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.9.6/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.9.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.9.6/apis" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resources (v2.6.30, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-resources-2.6.30/lib" />
@@ -858,6 +878,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/aws-sdk-resources-2.9.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.9.6, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-resources-2.9.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-resources-2.9.6/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-v1 (v1.66.0, RVM: ruby-2.1.10) [gem]">
@@ -1180,6 +1208,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/childprocess-0.5.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="childprocess (v0.6.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/childprocess-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/childprocess-0.6.3/lib" />
       </SOURCES>
     </library>
     <library name="childprocess (v0.6.3, RVM: ruby-2.4.1) [gem]">
@@ -4546,6 +4582,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/overcommit-0.39.0/template-dir" />
       </SOURCES>
     </library>
+    <library name="overcommit (v0.39.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/template-dir" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/overcommit-0.39.1/template-dir" />
+      </SOURCES>
+    </library>
     <library name="page-object (v1.2.0, RVM: ruby-2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/page-object-1.2.0/lib" />
@@ -6000,6 +6052,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.0/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.48.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rubocop-0.48.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rubocop-0.48.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rubocop-0.48.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rubocop-0.48.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rubocop-0.48.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rubocop-0.48.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rubocop-0.48.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rubocop-0.48.1/config" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.48.1, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubocop-0.48.1/bin" />
@@ -6372,6 +6438,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/selenium-webdriver-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.3.0, RVM: ruby-2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/selenium-webdriver-3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.10/gems/selenium-webdriver-3.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.3.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/selenium-webdriver-3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/selenium-webdriver-3.3.0/lib" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.12.0, RVM: ruby-2.1.10) [gem]">
@@ -7210,6 +7292,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/unicode-display_width-1.1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/unicode-display_width-1.1.3/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.2.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/unicode-display_width-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/unicode-display_width-1.2.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/unicode-display_width-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/unicode-display_width-1.2.0/data" />
       </SOURCES>
     </library>
     <library name="url (v0.3.2, RVM: ruby-2.1.10) [gem]">
